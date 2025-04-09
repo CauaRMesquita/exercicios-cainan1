@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        double n1, n2, result;
+        double n1, n2, result = 0;
+        int option;
 
         Scanner input = new Scanner(System.in);
         System.out.println("Digite dois numeros separados por espaço: ");
@@ -20,9 +21,24 @@ public class Main {
                            "\nEscolha uma opção");
         option = input.nextInt();
 
-        switch (option{
+        switch (option) {
+            case 1:
+                result = n1+n2;
+                break;
+            case 2:
+                result = n1-n2;
+                break;
+            case 3:
+                result = n1*n2;
+                break;
+            case 4:
+                result = n1/n2;
+                break;
+            default:
+                System.out.println("Opção Inválida");
 
-        })
+        }
+        System.out.println("O resultado é " + result);
 
     }
 }
