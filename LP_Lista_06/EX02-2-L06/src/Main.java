@@ -15,11 +15,8 @@ public class Main {
 
     }
     public static int calculo(int plug){
-
-        int fat = 1;
-        for(int i=1; i<=plug; i++) {
-            fat = fat * i;
-        }
-        return fat;
+        if (plug==1)
+            return 1;
+        return plug*calculo( plug-1);
     }
 }

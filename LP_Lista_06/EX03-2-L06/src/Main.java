@@ -18,12 +18,6 @@ public class Main {
         System.out.println(numx + "^" + numy + "=" + count(numx, numy));
     }
     public static int count(int x, int y){
-        if (y==0)
-        return 1;
-        int result = 1;
-    for (int i=y; i>=1; i--) {
-    result*= x;
-    }
-    return result;
+     return y==0?1:x*count(x,y-1);
     }
 }
