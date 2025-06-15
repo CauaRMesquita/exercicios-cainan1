@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded525f9-3ace-4c31-9ee8-2f1b8afb3c79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LP_Lista_03/EX13-L3/EX13-L3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_03/EX14-L3/EX14-L3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX10-L4/EX10-L4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX7-L4/EX7-L4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX8-L4/EX8-L4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX9-L4/EX9-L4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-02/EX-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-04/EX-04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-05/EX-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-06/EX-06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-07/EX-07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-08/EX-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-09/EX-09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-10/EX-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-11/EX-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-12/EX-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX03/EX-03.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LP_Lista_04/EX06-L4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LP_Lista_04/EX06-L4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP_Lista_05/EX-01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LP_Lista_05/EX-01/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
