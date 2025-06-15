@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LP_Lista_05/EX-01/EX-01.iml" filepath="$PROJECT_DIR$/LP_Lista_05/EX-01/EX-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/EX10-L4/EX10-L4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/EX10-L4/EX10-L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_03/EX13-L3/EX13-L3.iml" filepath="$PROJECT_DIR$/LP_Lista_03/EX13-L3/EX13-L3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_03/EX14-L3/EX14-L3.iml" filepath="$PROJECT_DIR$/LP_Lista_03/EX14-L3/EX14-L3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP_Lista_02/EX18/EX18.iml" filepath="$PROJECT_DIR$/LP_Lista_02/EX18/EX18.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP_Lista_02/EX19/EX19.iml" filepath="$PROJECT_DIR$/LP_Lista_02/EX19/EX19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/EX7-L4/EX7-L4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/EX7-L4/EX7-L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/EX8-L4/EX8-L4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/EX8-L4/EX8-L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/EX9-L4/EX9-L4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/EX9-L4/EX9-L4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Listas de Exercícios.iml" filepath="$PROJECT_DIR$/.idea/Listas de Exercícios.iml" />
     </modules>
   </component>

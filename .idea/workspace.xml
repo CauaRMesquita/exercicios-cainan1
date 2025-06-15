@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded525f9-3ace-4c31-9ee8-2f1b8afb3c79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LP_Lista_02/EX18/EX18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_02/EX19/EX19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LP_Lista_05/EX-01/EX-01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_03/EX13-L3/EX13-L3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_03/EX14-L3/EX14-L3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX10-L4/EX10-L4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX7-L4/EX7-L4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX8-L4/EX8-L4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LP_Lista_04/EX9-L4/EX9-L4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LP_Lista_02/EX17/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LP_Lista_02/EX17/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP_Lista_04/EX06-L4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LP_Lista_04/EX06-L4/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
