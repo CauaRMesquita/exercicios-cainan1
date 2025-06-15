@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_05/EX-01/EX-01.iml" filepath="$PROJECT_DIR$/LP_Lista_05/EX-01/EX-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_02/EX18/EX18.iml" filepath="$PROJECT_DIR$/LP_Lista_02/EX18/EX18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_02/EX19/EX19.iml" filepath="$PROJECT_DIR$/LP_Lista_02/EX19/EX19.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Listas de Exercícios.iml" filepath="$PROJECT_DIR$/.idea/Listas de Exercícios.iml" />
     </modules>
   </component>
